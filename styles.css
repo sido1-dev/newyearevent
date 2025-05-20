@@ -618,3 +618,32 @@ html::-webkit-scrollbar-thumb {
   justify-content: center;
   align-items: center;
 }
+
+.Verfügbare{
+  margin-bottom: 25px;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+.Verfügbare span{
+ color: var(--theme-color); 
+}
+
+
+.plan{
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+
+}
+
+.plan iframe{
+  width: 80%;
+  margin: auto;
+  min-height: 70vh;
+}
