@@ -632,7 +632,7 @@ html::-webkit-scrollbar-thumb {
 
 .plan{
   width: 100%;
-  height: auto;
+  height: 100vh;
   flex-direction: column;
   display: flex;
   justify-content: center;
@@ -642,8 +642,8 @@ html::-webkit-scrollbar-thumb {
 
 }
 
-.plan iframe{
-  width: 80%;
+.plan .planImg{
+  width: 75%;
   margin: auto;
-  min-height: 70vh;
+  min-height: 90vh;
 }
