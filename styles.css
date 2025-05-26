@@ -643,7 +643,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 .plan .planImg{
-  width: 75%;
+  width: 100%;
   margin: auto;
-  min-height: 90vh;
+  height: 80vh;
 }
